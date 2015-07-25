@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<videos>
+    <video series="Build an App with Corey Haines" subseries=""                       title="#1: Where Do We Start?"                             href="CleanCode/BAWCH-E1-1080p.mp4" />
+    <video series="Build an App with Corey Haines" subseries=""                       title="#2: Finishing Our First Feature"                    href="CleanCode/BAWCH-E2-1080p.mp4" />
+    <video series="Build an App with Corey Haines" subseries=""                       title="#3: 2nd Feature"                                    href="CleanCode/BAWCH-E3-1080p.mp4" />
+    <video series="Build an App with Corey Haines" subseries=""                       title="#4: Eliminating Duplication"                        href="CleanCode/BAWCH-E4-Eliminating-Duplication-1080p.mp4" />
+    <video series="Java Case Study"                subseries=""                       title="#1: Getting Nothing Done"                           href="CleanCode/CaseStudy-E1-1080p.mp4" />
+    <video series="Java Case Study"                subseries=""                       title="#2: Let the Testing Begin - Part 1"                 href="CleanCode/CaseStudy-E2-P1-1080p.mp4" />
+    <video series="Java Case Study"                subseries=""                       title="#2: Let the Testing Begin - Part 2"                 href="CleanCode/CaseStudy-E2-P2-1080p.mp4" />
+    <video series="Java Case Study"                subseries=""                       title="#3: Sorting Our Issues"                             href="CleanCode/CaseStudy-E3-1080p.mp4" />
+    <video series="Java Case Study"                subseries=""                       title="#4: We Write a Web Server"                          href="CleanCode/CaseStudy-E4-1080p.mp4" />
+    <video series="Java Case Study"                subseries=""                       title="#5: A Series of Twisty Little Threads"              href="CleanCode/CaseStudy-E5-1080p.mp4" />
+    <video series="Java Case Study"                subseries=""                       title="#6: Where Are We Testing?"                          href="CleanCode/CaseStudy-E6-1080p.mp4" />
+    <video series="Java Case Study"                subseries=""                       title="#7: The Customer Is Coming"                         href="CleanCode/CaseStudy-E7-1080p.mp4" />
+    <video series="Java Case Study"                subseries=""                       title="#8: Into the Tunnel"                                href="CleanCode/CaseStudy-E08-1080p.mp4" />
+    <video series="Java Case Study"                subseries=""                       title="#9: Lost In Space"                                  href="CleanCode/CaseStudy-E09-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Miscellaneous"          title="The Last Programming Language"                      href="CleanCode/CleanCode-E00-TheLastProgrammingLanguage-540p.mp4" />
+    <video series="Clean Code"                     subseries="Fundamentals"           title="#1: Clean Code"                                     href="CleanCode/CleanCode-E01-540p.mp4" />
+    <video series="Clean Code"                     subseries="Fundamentals"           title="#1: Clean Code (Remake!)"                           href="CleanCode/CleanCode-E01_remake-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Fundamentals"           title="#2: Names++"                                        href="CleanCode/CleanCode-E02-540p.mp4" />
+    <video series="Clean Code"                     subseries="Fundamentals"           title="#3: Functions"                                      href="CleanCode/CleanCode-E03-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Fundamentals"           title="#4: Function Structure"                             href="CleanCode/CleanCode-E04-1080-40.mp4" />
+    <video series="Clean Code"                     subseries="Fundamentals"           title="#5: Form"                                           href="CleanCode/CleanCode-E05-1080-40.mp4" />
+    <video series="Clean Code"                     subseries="Fundamentals"           title="#6: TDD - Part 1"                                   href="CleanCode/CleanCode-E06-part-1-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Fundamentals"           title="#6: TDD - Part 2"                                   href="CleanCode/CleanCode-E06-part-2-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Fundamentals"           title="#7: Architecture, Use Cases, and High Level Design" href="CleanCode/CleanCode-E07-1080p.mp4" />
+    <video series="Clean Code"                     subseries="SOLID Principles"       title="#8: Foundations of the SOLID Principles"            href="CleanCode/CleanCode-E08-1080p.mp4" />
+    <video series="Clean Code"                     subseries="SOLID Principles"       title="#9: The Single Responsibility Principle"            href="CleanCode/CleanCode-E09-1080p.mp4" />
+    <video series="Clean Code"                     subseries="SOLID Principles"       title="#10: The Open-Closed Principle"                     href="CleanCode/CleanCode-E10-1080p.mp4" />
+    <video series="Clean Code"                     subseries="SOLID Principles"       title="#11: The Liskov Substitution Principle - Part 1"    href="CleanCode/CleanCode-E11-P1-1080p.mp4" />
+    <video series="Clean Code"                     subseries="SOLID Principles"       title="#11: The Liskov Substitution Principle - Part 2"    href="CleanCode/CleanCode-E11-P2-1080p.mp4" />
+    <video series="Clean Code"                     subseries="SOLID Principles"       title="#12: The Interface Segregation Principle"           href="CleanCode/CleanCode-E12-1080p.mp4" />
+    <video series="Clean Code"                     subseries="SOLID Principles"       title="#13: The Dependency Inversion Principle"            href="CleanCode/CleanCode-E13-1080p.mp4" />
+    <video series="Clean Code"                     subseries="SOLID Principles"       title="#14: Solid Case Study"                              href="CleanCode/CleanCode-E14-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Component Design"       title="#15: SOLID Components"                              href="CleanCode/CleanCode-E15-720p.mp4" />
+    <video series="Clean Code"                     subseries="Component Design"       title="#16: Component Cohesion"                            href="CleanCode/CleanCode-E16-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Component Design"       title="#17: Component Coupling"                            href="CleanCode/CleanCode-E17-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Component Design"       title="#18: Component Case Study"                          href="CleanCode/CleanCode-E18-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Advanced TDD"           title="#19: Advanced TDD - Part 1"                         href="CleanCode/CleanCode-E19-P1-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Advanced TDD"           title="#19: Advanced TDD - Part 2"                         href="CleanCode/CleanCode-E19-P2-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Advanced TDD"           title="#20: Clean Tests"                                   href="CleanCode/CleanCode-E20-CleanTests-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Advanced TDD"           title="#21: Test Design"                                   href="CleanCode/CleanCode-E21-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Advanced TDD"           title="#22: Test Process"                                  href="CleanCode/CleanCode-E22-1080p-v1a.mp4" />
+    <video series="Clean Code"                     subseries="Advanced TDD"           title="#23: Mocking - Part 1"                              href="CleanCode/CleanCode-E23-P1-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Advanced TDD"           title="#23: Mocking - Part 2"                              href="CleanCode/CleanCode-E23-P2V2-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Advanced TDD"           title="#24: Transformation Priority Premise - Part 1"      href="CleanCode/CleanCode-E24-P1-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Advanced TDD"           title="#24: Transformation Priority Premise - Part 2"      href="CleanCode/CleanCode-E24-P2-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Design Patterns"        title="#25: Design Patterns"                               href="CleanCode/CleanCode-E25-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Design Patterns"        title="#26: Factories"                                     href="CleanCode/CleanCode-E26-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Design Patterns"        title="#27: Strategy &amp; Template Method Patterns"       href="CleanCode/CleanCode-E27-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Design Patterns"        title="#28: Finite State Machines and The State Pattern"   href="CleanCode/CleanCode-E28-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Design Patterns"        title="#29: SMC Parser"                                    href="CleanCode/CleanCode-E29-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Design Patterns"        title="#30: SMC Generator"                                 href="CleanCode/CleanCode-E30-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Design Patterns"        title="#31: The Observer Pattern"                          href="CleanCode/CleanCode-E31-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Design Patterns"        title="#32: Pile O'Patterns"                               href="CleanCode/CleanCode-E32-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Design Patterns"        title="#33: Pattern Roundup"                               href="CleanCode/CleanCode-E33-1080p.mp4" />
+    <video series="Clean Code"                     subseries="Design Patterns"        title="#34: Pattern Apocalypse"                            href="CleanCode/CleanCode-E34-1080p.mp4" />
+    <video series="Miscellaneous"                  subseries=""                       title="How to make a Clean Coders Video"                   href="CleanCode/HowToMakeaCleanCodersVideo.mp4" />
+</videos>
